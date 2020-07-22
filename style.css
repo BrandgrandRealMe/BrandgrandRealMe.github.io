@@ -39,7 +39,15 @@ footer {
   border: 1px;
   margin: 0;
 }
-
+.dwidget {
+  height: calc(100% - 160px);
+  font-family: 'zorque';  
+  background: #2C2F33;
+  color:#FFFFFF;
+  border: 5px solid transparent;
+  border: 1px;
+  margin: 0;
+}
 .mit {
   background-color: #23272A;
   font-family: 'zorque';  
