@@ -39,15 +39,7 @@ footer {
   border: 1px;
   margin: 0;
 }
-.dwidget {
-  height: calc(100% - 160px);
-  font-family: 'zorque';  
-  background: #2C2F33;
-  color:#FFFFFF;
-  border: 5px solid transparent;
-  border: 1px;
-  margin: 0;
-}
+
 .mit {
   background-color: #23272A;
   font-family: 'zorque';  
@@ -75,10 +67,28 @@ footer {
 .title2 {
   color: #7289DA;
   font-family: 'zorque';
-  float: left center;
-  border-left: 10px solid transparent;
   font-size: 60px;
+  width: 100%;
 }
+img.logo1 {
+  width:200px;
+  height:200px;
+  margin:0px;
+  border-width:0px;
+  border-color:#000000;
+  border-style:solid;
+}
+.discription1 {
+   color: #7289DA;
+  display: block;
+  text-align: center;
+  padding: 0px 80px 1px;
+  text-decoration: none;
+  font-size: 30px;
+  border-bottom: 3px solid #7289DA; 
+  border-top: 3px solid #7289DA;
+}
+
 .topnav .title {
   float: left;
   display: block;
@@ -171,4 +181,140 @@ opacity: .9;
       padding: 5px;
 border: 5px solid #7289DA;
 
+}
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+ width: 100%;
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: #7289DA; /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  padding-top: 60px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #7289DA;
+  margin: 5px auto; /* 15% from the top and centered */
+  border: 1px solid #7289DA;
+}
+
+/* The Close Button */
+.close {
+  /* Position it in the top right corner outside of the modal */
+  position: absolute;
+  right: 25px;
+  top: 0;
+  font-size: 35px;
+  font-weight: bold;
+  color: red;
+  font-family: 'zorque';
+}
+
+/* Close button on hover */
+.close:hover,
+.close:focus {
+  color: red;
+  cursor: pointer;
+}
+
+/* Add Zoom Animation */
+.animate {
+  -webkit-animation: animatezoom 0.6s;
+  animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+  from {-webkit-transform: scale(0)}
+  to {-webkit-transform: scale(1)}
+}
+
+@keyframes animatezoom {
+  from {transform: scale(0)}
+  to {transform: scale(1)}
+}
+form {
+   width: 400px;
+}
+input[type=text], input[type=email] {
+  width: 400px;
+  height: 50px;
+  padding: 10px 10px 12px;
+  margin: 10px 0px 10px ;
+  display: inline-block;
+  box-sizing: border-box;
+  background-color: rgba(0,0,0,0.10); /* Black w/ opacity */
+  border: 3px solid #7289DA;
+  font-family: 'zorque';
+  color: #fff;
+  font-size: 20px;
+}
+button {
+  background-color: #7289DA;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 345px;
+  font-family: 'zorque';
+      font-size: 20px;
+
+}
+button:hover {
+  opacity: 0.8;
+}
+.cancelbtn {
+  color: red;
+  padding: 10px 10px;
+  margin: 170px 0;
+  border: none;
+  cursor: pointer;
+  font-family: 'zorque';
+  font-size: 20px;
+ width: 50px;
+ height: 50px;
+  background-color: #7289DA;
+}
+.container {
+  padding: 20px;
+   width: 400px;
+   height: 460px;
+
+}
+@media screen and (max-width: 200px) {
+  .cancelbtn {
+    width: 100%;
+  }
+}
+.subscribe {
+  background-color: #7289DA;
+  color: white;
+  padding: 10px 10px;
+  margin: 170px 0;
+  border: none;
+  cursor: pointer;
+  width: 346px;
+  font-family: 'zorque';
+  font-size: 20px;
+  height: 50px;
+
+}
+.title3 {
+   color: #7289DA;
+  display: block;
+  text-decoration: none;
+  font-size: 25px;
+  margin: 8px 0;
+  border-bottom: 3px solid #7289DA; 
+  border-top: 3px solid #7289DA;
+}
+.game {
+height: 100%;
+width: 100%;
 }
