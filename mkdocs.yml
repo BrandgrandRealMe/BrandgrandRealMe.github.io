@@ -1,0 +1,124 @@
+site_name: Docs
+theme:
+  name: material
+  # Necessary for search to work properly
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/material/.icons/fontawesome/solid/book.svg
+  icon:
+    logo: fontawesome/solid/book
+    repo: octicons/mark-github-16
+  features:
+    - content.tooltips
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - toc.follow
+    - content.code.annotate
+  palette:
+    # Palette toggle for automatic mode
+  - media: "(prefers-color-scheme)"
+    primary: indigo
+    accent: blue
+    toggle:
+      icon: material/brightness-auto
+      name: AUTO
+
+    # Palette toggle for light mode
+  - media: "(prefers-color-scheme: light)"
+    primary: indigo
+    accent: blue
+    scheme: default 
+    toggle:
+      icon: material/brightness-7
+      name: LIGHT
+      admonition:
+        note: octicons/tag-16
+        abstract: octicons/checklist-16
+        info: octicons/info-16
+        tip: octicons/squirrel-16
+        success: octicons/check-16
+        question: octicons/question-16
+        warning: octicons/alert-16
+        failure: octicons/x-circle-16
+        danger: octicons/zap-16
+        bug: octicons/bug-16
+        example: octicons/beaker-16
+        quote: octicons/quote-16
+        aboutme: material-book-account-outline
+        beginner: material-label-variant-outline
+        notebook: material-notebook-outline
+
+  # Palette toggle for dark mode
+  - media: "(prefers-color-scheme: dark)"
+    primary: indigo
+    accent: blue
+    scheme: slate
+    toggle:
+      icon: material/brightness-4
+      name: DARK
+
+extra_css:
+  - styles/admonitions/pincog.css
+  - styles/admonitions/links.css
+  - styles/admonitions/code.css
+  - styles/extras.css
+
+
+# Repository
+repo_name: BrandgrandRealMe
+repo_url: https://github.com/BrandgrandRealMe
+
+# Copyright
+copyright: Site Made By Brandgrand Using mkdocs Material
+plugins:
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
