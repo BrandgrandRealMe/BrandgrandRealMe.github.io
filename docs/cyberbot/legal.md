@@ -9,7 +9,7 @@ description: The Terms of Service and Privacy Policy of the Discord Bot.
 [discord]: https://discord.com
 [support]: https://discord.gg/Bm6fMsA
 [language]: https://discord.com/developers/docs/dispatch/field-values#predefined-field-values-accepted-locales
-[policy]: https://docs.brandgrand.tech/cyberbot/privacy/
+[policy]: #privacy-policy
 # CYBRΞRBot
 
 ## Terms of Service
