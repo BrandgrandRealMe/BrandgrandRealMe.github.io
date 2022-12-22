@@ -92,6 +92,9 @@ markdown_extensions:
   - footnotes
   - meta
   - md_in_html
+  - content.code.annotate
+  - pymdownx.superfences
+  - tables
   - toc:
       permalink: true
   - pymdownx.arithmatex:
