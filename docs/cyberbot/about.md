@@ -26,9 +26,8 @@ The bot sends a custom welcome message to this channel when someone new joins yo
    1. Add `{message:}` anywere in the Channels Topic. (3)
    2. Write your message after the `:` in `{message:}` (4)
    3. Add [flags] anywhere inside of you custom message!
-   
-
 { .annotate }
+
 1.  The defult message is `Welcome to the server, @member`
 2.  Example: `This is the welcome channel! Please welcome the users! {welcome}`
 3.  Example: `This is the welcome channel! Please welcome the users! {welcome} {message:}`
