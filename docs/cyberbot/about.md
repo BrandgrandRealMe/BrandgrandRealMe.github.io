@@ -19,7 +19,7 @@ He has slash commands, You can build a simple embed message, you can get random 
 ## Welcome Channel
 The bot sends a custom welcome message to this channel when someone new joins your server!
 
-???+ note example "Creating A Welcome Channel"
+???+ example annotate "Creating A Welcome Channel"
       
       1.  Basic Welcome Message (1)
         1.  Put `{welcome}` anywere in the Channels Topic. (2)
