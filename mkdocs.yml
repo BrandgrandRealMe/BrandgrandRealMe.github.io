@@ -77,7 +77,7 @@ copyright: Site Made By Brandgrand Using mkdocs Material
 plugins:
   - search
   - meta:
-    meta_file: '**/.meta.yml'
+      meta_file: '**/.meta.yml'
 markdown_extensions:
   - abbr
   - admonition
