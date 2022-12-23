@@ -21,18 +21,18 @@ The bot sends a custom welcome message to this channel when someone new joins yo
 
 ???+ note example "Creating A Welcome Channel"
       Follow These steps
-      1. Basic Welcome Message (1)
-        1. Put `{welcome}` anywere in the Channels Topic. (2)
-      2. Make a Basic Custom message
-        1. Add `{message:}` anywere in the Channels Topic. (3)
-        2. Write your message after the `:` in `{message:}` (4)
-      3. Add [flags] anywhere inside of you custom message!
+      1.  Basic Welcome Message (1)
+        1.  Put `{welcome}` anywere in the Channels Topic. (2)
+      1.  Make a Basic Custom message
+        1.  Add `{message:}` anywere in the Channels Topic. (3)
+        1.  Write your message after the `:` in `{message:}` (4)
+      1.  Add [flags] anywhere inside of you custom message!
 
-1. The defult message is `Welcome to the server, @member`
-2. Example: `This is the welcome channel! Please welcome the users! {welcome}`
-3. Example: `This is the welcome channel! Please welcome the users! {welcome} {message:}`
-4. Example: `This is the welcome channel! Please welcome the users!{welcome} {message:Welcome to the server!}`
-5. Example: `This is the welcome channel! Please welcome the users!{welcome} {message:Welcome to the server, <mention>!}`
+1.  :man_raising_hand: The defult message is `Welcome to the server, @member`
+2.  :man_raising_hand: Example: `This is the welcome channel! Please welcome the users! {welcome}`
+3.  :man_raising_hand: Example: `This is the welcome channel! Please welcome the users! {welcome} {message:}`
+4.  :man_raising_hand: Example: `This is the welcome channel! Please welcome the users!{welcome} {message:Welcome to the server!}`
+5.  :man_raising_hand: Example: `This is the welcome channel! Please welcome the users!{welcome} {message:Welcome to the server, <mention>!}`
 
 
 #### Flags
