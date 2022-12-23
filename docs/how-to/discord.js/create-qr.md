@@ -12,7 +12,7 @@ description: How to create a command that creates a QR code with Discord.js
 To create a QR code with [Discord.js], you can use a QR code generator library like [qrcode]. you will need to follow these steps:
 
 1.  Install the required dependencies: You will need to install the [discord.js] library and the [qrcode] library. You can do this by running the following command: 
-    ```batch
+    ```sh
     npm install discord.js qrcode
     ```
 2.  Import the libraries in your code: In your JavaScript file, you will need to import the `discord.js` and `qrcode` libraries using the following lines of code:
