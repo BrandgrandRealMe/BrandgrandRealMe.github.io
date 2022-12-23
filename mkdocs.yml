@@ -76,8 +76,7 @@ edit_uri: BrandgrandRealMe.github.io/edit/master/docs/
 copyright: Site Made By Brandgrand Using mkdocs Material
 plugins:
   - search
-  - meta:
-      meta_file: '**/.meta.yml'
+  - meta
 markdown_extensions:
   - abbr
   - admonition
