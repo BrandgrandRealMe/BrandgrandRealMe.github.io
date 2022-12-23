@@ -19,6 +19,7 @@ He has slash commands, You can build a simple embed message, you can get random 
 ## Welcome Channel
 The bot sends a custom welcome message to this channel when someone new joins your server!
 
+<div markdown>
 ???+ example annotate "Creating A Welcome Channel"
       
       1.  Basic Welcome Message (1)
@@ -28,20 +29,12 @@ The bot sends a custom welcome message to this channel when someone new joins yo
         2.  Write your message after the `:` in `{message:}` (4)
       3.  Add [flags] anywhere inside of you custom message!
 
-1.  :man_raising_hand: The defult message is `Welcome to the server, @member`
-2.  :man_raising_hand: Example: `This is the welcome channel! Please welcome the users! {welcome}`
-3.  :man_raising_hand: Example: `This is the welcome channel! Please welcome the users! {welcome} {message:}`
-4.  :man_raising_hand: Example: `This is the welcome channel! Please welcome the users!{welcome} {message:Welcome to the server!}`
-5.  :man_raising_hand: Example: `This is the welcome channel! Please welcome the users!{welcome} {message:Welcome to the server, <mention>!}`
-
-!!! note annotate "Phasellus posuere in sem ut cursus (1)"
-
-    Lorem ipsum dolor sit amet, (2) consectetur adipiscing elit. Nulla et
-    euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo
-    purus auctor massa, nec semper lorem quam in massa.
-
-1.  :man_raising_hand: I'm an annotation!
-2.  :woman_raising_hand: I'm an annotation as well!
+1.  The defult message is `Welcome to the server, @member`
+2.  Example: `This is the welcome channel! Please welcome the users! {welcome}`
+3.  Example: `This is the welcome channel! Please welcome the users! {welcome} {message:}`
+4.  Example: `This is the welcome channel! Please welcome the users!{welcome} {message:Welcome to the server!}`
+5.  Example: `This is the welcome channel! Please welcome the users!{welcome} {message:Welcome to the server, <mention>!}`
+</div>
 
 
 #### Flags
