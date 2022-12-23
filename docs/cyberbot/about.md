@@ -23,9 +23,9 @@ The bot sends a custom welcome message to this channel when someone new joins yo
 ???+ example annotate "Creating A Welcome Channel"
       
       1.  Basic Welcome Message {>>The defult message is `Welcome to the server, @member`<<}
-        1.  Put `{welcome}` anywere in the Channels Topic. {>>This is the welcome channel! Please welcome the users! {++{welcome}++}<<}
+        1.  Put `{welcome}` anywere in the Channels Topic. {>>This is the welcome channel! Please welcome the users! =={welcome}==<<}
       2.  Make a Basic Custom message
-        1.  Add `{message:}` anywere in the Channels Topic. {>>This is the welcome channel! Please welcome the users! {welcome} {++{message:}++}<<}
+        1.  Add `{message:}` anywere in the Channels Topic. {>>This is the welcome channel! Please welcome the users! {welcome} =={message:}==<<}
         2.  Write your message after the `:` in `{message:}` {>>This is the welcome channel! Please welcome the users! {welcome} {message:++Welcome to the server!++}<<}
       3.  Add [flags] anywhere inside of you custom message! {>>This is the welcome channel! Please welcome the users! {welcome} {message:Welcome to the server, ++<mention>++!}<<}
 </div>
