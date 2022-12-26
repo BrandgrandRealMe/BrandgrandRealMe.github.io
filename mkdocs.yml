@@ -76,14 +76,12 @@ edit_uri: BrandgrandRealMe.github.io/edit/master/docs/
 copyright: Site Made By Brandgrand Using mkdocs Material
 plugins:
   - search
-  - meta
 markdown_extensions:
   - abbr
   - admonition
   - attr_list
   - def_list
   - footnotes
-  - meta
   - md_in_html
   - pymdownx.superfences
   - tables
