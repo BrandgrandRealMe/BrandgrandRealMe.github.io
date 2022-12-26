@@ -13,9 +13,9 @@ description: All notable changes to CYBRΞRBot will be documented here.
 
      1. **Fix** stopped welcome listener from crashing when server did not have welcome channel setup.
      2.  **New** added more flags for welcome message
-         `<displayName>` - will display the nickname of the new member, or their username if they don't have one 
-         `<username>` - Will display the username of the new user
-         `<tag>` - will display the tag of the user.
+         - `<displayName>` will display the nickname of the new member, or their username if they don't have one 
+         - `<username>` Will display the username of the new user
+         - `<tag>` will display the tag of the user.
       3. **New** added Goodbye Channel/Message
          - Just like Welcome but you use `{goodbye}` instead
          - You can not use `<mention>` or `{embed:Mention}`
