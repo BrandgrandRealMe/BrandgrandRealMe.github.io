@@ -1,0 +1,2 @@
+mkdocs
+pip install mkdocs-material 
