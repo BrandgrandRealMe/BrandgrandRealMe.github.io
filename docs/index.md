@@ -28,7 +28,7 @@
     }
     }
     ```
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrandgrandRealMe&theme=github_dark&show_icons=true&hide_border=true" alt="Stats" />
+    <img align="center" src="https://github-readme-stats-brandgrand.vercel.app/api?username=BrandgrandRealMe&theme=github_dark&show_icons=true&hide_border=true" alt="Stats" />
 
 
 
@@ -44,7 +44,7 @@
 
 !!! example "My Top Languages"
     <center>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandgrandRealMe&theme=github_dark&layout=compact&hide_border=true" alt="top-langs" />
+    <img align="center" src="https://github-readme-stats-brandgrand.vercel.app/api/top-langs/?username=BrandgrandRealMe&theme=github_dark&layout=compact&hide_border=true" alt="top-langs" />
     <br><br>
  
  
@@ -68,7 +68,7 @@
 
 !!! links "My Packages"
     <a href="https://github.com/BrandgrandRealMe/BetterLogsDiscord" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrandgrandRealMe&repo=BetterLogsDiscord&theme=github_dark&hide_border=true&show_owner=true" alt="top-langs" />
+    <img align="center" src="https://github-readme-stats-brandgrand.vercel.app/api/pin/?username=BrandgrandRealMe&repo=BetterLogsDiscord&theme=github_dark&hide_border=true&show_owner=true" alt="top-langs" />
     </a>
 
 
