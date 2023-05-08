@@ -1,32 +1,28 @@
 !!! info "About me"
     ```js
-    class About extends Me {
-      constructor() {
-      this.name = "Brandon";
-      this.username = "BrandgrandReal";
-      this.discord = "BrandgrandReal#3131";
-      this.gender = "Male";
-    }
-      t whoAmI() {
-      return ["coding enthusiast", "gamer", "high school student"];
-    }
-      t whatIDo() {
-      return ["build websites", "Make discord bots", "have fun"];
-    }
-      t languages() {
-        turn [
-        "JavaScript",
-        "HTML",
-        "CSS",
-      ];
-    }
-      t tech() {
-      return ["Node.js", "npm", "discord.js"];
-    }
-      t interestingFacts() {
-      return ["self taught", "started with html and JS"];
-    }
-    }
+class Me {
+  constructor() {
+    this.name = "Brandon";
+    this.username = "BrandgrandReal";
+    this.discord = "BrandgrandReal#3131";
+    this.gender = "Male";
+  }
+  whoAmI() {
+    return ["coding enthusiast", "gamer", "high school student"];
+  }
+  whatIDo() {
+    return ["build websites", "Make discord bots", "have fun"];
+  }
+  languages() {
+    return ["JavaScript", "HTML", "CSS"];
+  }
+  tech() {
+    return ["Node.js", "npm", "discord.js"];
+  }
+  interestingFacts() {
+    return ["self taught", "started with html and JS"];
+  }
+} 
     ```
     <img align="center" src="https://github-readme-stats-brandgrand.vercel.app/api?username=BrandgrandRealMe&theme=github_dark&show_icons=true&hide_border=true" alt="Stats" />
 
