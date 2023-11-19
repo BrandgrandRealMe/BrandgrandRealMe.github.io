@@ -70,7 +70,7 @@ extra_css:
 repo_name: BrandgrandRealMe
 repo_url: https://github.com/BrandgrandRealMe
 edit_uri: BrandgrandRealMe.github.io/edit/master/docs/
-
+site_url: ''
 
 # Copyright
 copyright: Site Made By Brandgrand Using mkdocs Material
