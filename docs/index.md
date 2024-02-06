@@ -1,28 +1,28 @@
 !!! info "About me"
     ```js
-    class AboutMe {
-     constructor() {
-        this.name = "Brandon";
-        this.username = "BrandgrandReal";
-        this.discord = "BrandgrandReal#3131";
-        this.gender = "Male";
-      }
-      whoAmI() {
-        return ["coding enthusiast", "gamer", "high school student"];
-      }
-      whatIDo() {
-        return ["build websites", "Make discord bots", "have fun"];
-      }
-      languages() {
-        return ["JavaScript", "HTML", "CSS"];
-      }
-      tech() {
-        return ["Node.js", "npm", "discord.js"];
-      }
-      interestingFacts() {
-        return ["self taught", "started with html and JS"];
-      }
-    } 
+class AboutMe {
+  constructor() {
+    this.name = "Brandon";
+    this.username = "BrandgrandReal";
+    this.discord = "BrandgrandReal";
+    this.gender = "Male";
+  }
+  whoAmI() {
+    return ["coding enthusiast", "gamer", "high school student"];
+  }
+  whatIDo() {
+    return ["build websites", "Make chat bots", "have fun"];
+  }
+  languages() {
+    return ["JavaScript", "HTML", "CSS"];
+  }
+  tech() {
+    return ["Node.js", "npm", "discord.js"];
+  }
+  interestingFacts() {
+    return ["self taught", "started with html and JS"];
+  }
+} 
     ```
     <img align="center" src="https://github-readme-stats-brandgrand.vercel.app/api?username=BrandgrandRealMe&theme=github_dark&show_icons=true&hide_border=true" alt="Stats" />
 
@@ -30,7 +30,9 @@
 
 !!! links "Links"
     Join My Discord! 
-    > [![**ᛃHʏᴘᴇTᴇᴀᴍᛃ** Discord](https://flat.badgen.net/discord/members/Bm6fMsA)](https://discord.gg/Bm6fMsA)
+    > [![Discord Server Invite](https://flat.badgen.net/discord/members/Bm6fMsA)](https://discord.gg/Bm6fMsA)
+    Join My Revolt! 
+    > [![Revolt Server Invite](https://rbg.brandgrandreal.is-a.dev/s/01H3QFBM82MEAZK4HT8FXJ8PD6)](https://rvlt.gg/b4mp1jgX)
 
 !!! abstract "To-Do"
     - [x] < Check this box
