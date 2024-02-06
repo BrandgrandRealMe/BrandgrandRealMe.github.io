@@ -1,28 +1,28 @@
 !!! info "About me"
     ```js
-    class AboutMe {
-      constructor() {
-        this.name = "Brandon";
-        this.username = "BrandgrandReal";
-        this.discord = "BrandgrandReal";
-        this.gender = "Male";
-      }
-      whoAmI() {
-        return ["coding enthusiast", "gamer", "high school student"];
-      }
-      whatIDo() {
-        return ["build websites", "Make chat bots", "have fun"];
-      }
-      languages() {
-        return ["JavaScript", "HTML", "CSS"];
-      }
-      tech() {
-        return ["Node.js", "npm", "discord.js"];
-      }
-      interestingFacts() {
-        return ["self taught", "started with html and JS"];
-      }
-    } 
+        class AboutMe {
+          constructor() {
+            this.name = "Brandon";
+            this.username = "BrandgrandReal";
+            this.discord = "BrandgrandReal";
+            this.gender = "Male";
+          }
+          whoAmI() {
+            return ["coding enthusiast", "gamer", "high school student"];
+          }
+          whatIDo() {
+            return ["build websites", "Make chat bots", "have fun"];
+          }
+          languages() {
+            return ["JavaScript", "HTML", "CSS"];
+          }
+          tech() {
+            return ["Node.js", "npm", "discord.js"];
+          }
+          interestingFacts() {
+            return ["self taught", "started with html and JS"];
+          }
+        } 
     ```
     <img align="center" src="https://github-readme-stats-brandgrand.vercel.app/api?username=BrandgrandRealMe&theme=github_dark&show_icons=true&hide_border=true" alt="Stats" />
 
