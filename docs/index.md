@@ -31,6 +31,7 @@
 !!! links "Links"
     Join My Discord! 
     > [![Discord Server Invite](https://flat.badgen.net/discord/members/Bm6fMsA)](https://discord.gg/Bm6fMsA)
+    
     Join My Revolt! 
     > [![Revolt Server Invite](https://rbg.brandgrandreal.is-a.dev/s/01H3QFBM82MEAZK4HT8FXJ8PD6)](https://rvlt.gg/b4mp1jgX)
 
