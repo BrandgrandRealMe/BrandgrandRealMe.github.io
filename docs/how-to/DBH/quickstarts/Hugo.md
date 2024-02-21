@@ -34,7 +34,7 @@ Make sure you created a **AIO** server!
 
   a. Open `FOLDERNAME/hugo.toml`
   
-  b. Add `theme: ["YOURTHEME"]` where `YOURTHEME` is the theme you chose. Example: `theme: ["PaperMod"]`
+  b. Add `theme = 'YOURTHEME'` where `YOURTHEME` is the theme you chose. Example: `theme = 'PaperMod'`
   
   c. While you are here config some more stuff! [MORE INFO](https://gohugo.io/getting-started/configuration/)
 
