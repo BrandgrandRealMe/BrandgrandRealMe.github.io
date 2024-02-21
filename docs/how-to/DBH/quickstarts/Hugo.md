@@ -6,17 +6,17 @@ The installer Installs Hugo without a Theme!
 
 Make sure you created a **AIO** server!
 
-1. Installing Hugo
+## 1. Installing Hugo
 
   Download [HugoInstall.bat](./HugoInstall.bat).
   
   Upload `HugoInstall.bat` to DBH server.
 
-2. Run Installer `bash HugoInstall.bat`
+## 2. Run Installer `bash HugoInstall.bat`
    
    When it asks `What folder name do you want for your blog?` send the name of the folder. **Remember this name!**
 
-3. Install theme
+## 3. Install theme
 
   Go to [themes.gohugo.io](https://themes.gohugo.io).
 
@@ -30,7 +30,7 @@ Make sure you created a **AIO** server!
   
   b. Clone the theme into the theme folder. `git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1`
 
-4. Run the server!
+## 4. Run the server!
 
    **Make sure to go back to the main Directory!** `cd ../`
 
