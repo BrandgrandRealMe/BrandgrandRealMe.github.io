@@ -24,13 +24,19 @@ Make sure you created a **AIO** server!
 
   **Example:**
   
-  For this exampe we are using PaperMod.
+  For this exampe we are using [PaperMod](https://themes.gohugo.io/themes/hugo-papermod/).
     
   a. Go to the folder your site is in. `cd FOLDERNAME` Where `FOLDERNAME` is the folder for your blog.
   
   b. Clone the theme into the theme folder. `git clone https://github.com/adityatelange/hugo-PaperMod themes/PaperMod --depth=1`
 
-## 4. Run the server!
+## 4. Configure the Blog
+
+  a. Open `FOLDERNAME/hugo.toml`
+  b. Add `theme: ["YOURTHEME"]` where `YOURTHEME` is the theme you chose. Example: `theme: ["PaperMod"]`
+  c. While you are here config some more stuff! [MORE INFO](https://gohugo.io/getting-started/configuration/)
+
+## 5. Run the server!
 
    **Make sure to go back to the main Directory!** `cd ../`
 
