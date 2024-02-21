@@ -1,4 +1,4 @@
-site_name: Docs
+site_name: BrandgrandReal Docs
 theme:
   name: material
   custom_dir: overrides
@@ -13,7 +13,7 @@ theme:
     code: Roboto Mono
   favicon: PFP.png
   icon:
-    logo: material/library
+    logo: PFP.png
     repo: fontawesome/brands/github
     edit: material/file-edit
     admonition:
