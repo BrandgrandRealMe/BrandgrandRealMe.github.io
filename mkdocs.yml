@@ -74,7 +74,7 @@ site_url: ''
 use_directory_urls: true
 
 # Copyright
-copyright: Site Made By Brandgrand Using mkdocs Material
+copyright: Docs for BrandgrandReal
 plugins:
   - search
 markdown_extensions:
