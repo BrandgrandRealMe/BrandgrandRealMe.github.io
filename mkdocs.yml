@@ -1,6 +1,7 @@
 site_name: BrandgrandReal Docs
 theme:
   name: material
+  logo: PFP.png
   custom_dir: overrides
   # Necessary for search to work properly
   include_search_page: false
@@ -13,7 +14,7 @@ theme:
     code: Roboto Mono
   favicon: PFP.png
   icon:
-    logo: PFP.png
+    logo: material/library
     repo: fontawesome/brands/github
     edit: material/file-edit
     admonition:
