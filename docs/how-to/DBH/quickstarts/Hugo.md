@@ -22,7 +22,7 @@ Make sure you created a **AIO** server!
 
   Pick a theme you like. Then install via the method they provide. **Perferably Git Clone**.
 
-  #### Example
+  **Example:**
   
   For this exampe we are using PaperMod.
     
