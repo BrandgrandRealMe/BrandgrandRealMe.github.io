@@ -46,5 +46,5 @@ Make sure you created a **AIO** server!
 
    b.   Upload `HugoStart.bat` to DBH server.
 
-   c. Run `bash HugoStart.bat PORT FOLDERNAME` where `PORT` is the port of your server and `FOLDERNAME` is the folder for your blog.
+   c. Run `bash HugoStart.bat PORT FOLDERNAME URL` where `PORT` is the port of your server, `URL` is the URL of the blog Example: `https://example.com` , and `FOLDERNAME` is the folder for your blog.
   
