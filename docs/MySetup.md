@@ -29,15 +29,15 @@ Comet Lake 14nm Technology
 238GB KINGSTON OM8PDP3256B-AI1 (SATA-2 (SSD)) <br>
 1863GB PNY CS900 2TB SSD (SATA (SSD))
 
-## [My Phone](https://www.gsmarena.com/google_pixel_6a-11229.php)
+## [My Phone](https://www.gsmarena.com/google_pixel_6a-11229.php) :material-cellphone:
 
 ### :octicons-device-desktop-16: Operating System
 
-:simple-windows: Android 14
+:simple-android: Android 14
 
 ### :octicons-cpu-16: CPU
 
-Google Tensor (5 nm) <br>
+:simple-google: Google Tensor (5 nm) <br>
 Octa-core (2x2.80 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.80 GHz Cortex-A55)
 
 ### :fontawesome-solid-memory: RAM
