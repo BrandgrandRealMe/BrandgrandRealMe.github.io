@@ -1,28 +1,30 @@
 ---
 title: My Setup
 ---
-### Operating System
+## My Laptop :material-laptop:
 
-Windows 11 Home 64-bit
+### :octicons-device-desktop-16: Operating System
 
-###CPU
+:simple-windows: Windows 11 Home 64-bit
 
-Intel Core i5 @ 2.50GHz <br>
+### :octicons-cpu-16: CPU
+
+:simple-intel: Intel Core i5 @ 2.50GHz <br>
 Comet Lake 14nm Technology
 
-### RAM
+### :fontawesome-solid-memory: RAM
 
 32.0GB
 
-### Motherboard
+### :material-developer-board: Motherboard
 
-Micro-Star International Co. Ltd. MS-16R5 (U3E1)
+:simple-msi: Micro-Star International Co. Ltd. MS-16R5 (U3E1)
 
-### Graphics
+### :material-expansion-card: Graphics
 
-4095MB NVIDIA GeForce GTX 1650 with Max-Q Design (MSI)
+:simple-nvidia: 4095MB NVIDIA GeForce GTX 1650 with Max-Q Design (MSI)
 
-### Storage
+### :simple-googlecloudstorage: Storage
 
 238GB KINGSTON OM8PDP3256B-AI1 (SATA-2 (SSD)) <br>
 1863GB PNY CS900 2TB SSD (SATA (SSD))
