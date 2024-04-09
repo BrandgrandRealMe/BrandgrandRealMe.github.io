@@ -35,7 +35,8 @@
     Join My Revolt! 
     > [![Revolt Server Invite](https://rbg.brandgrandreal.is-a.dev/s/01H3QFBM82MEAZK4HT8FXJ8PD6)](https://rvlt.gg/b4mp1jgX)
 
-    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3WDZYV)
+    Support me on Ko-Fi! 
+    > [![Ko-Fi Link](https://flat.badgen.net/badge/Support/BrandgrandReal/FF5E5B?icon=kofi)](https://ko-fi.com/J3J3WDZYV)
 
 !!! abstract "To-Do"
     - [x] < Check this box
