@@ -68,6 +68,15 @@
     </p>
     </center>
 
+!!! links "My Discord Bots"
+    <a href="https://github.com/BrandgrandRealMe/CyberBotOfficial" target="_blank">
+    <img align="center" src="https://github-readme-stats-brandgrand.vercel.app/api/pin/?username=BrandgrandRealMe&repo=CyberBotOfficial&theme=github_dark&hide_border=true&show_owner=true" alt="top-langs" />
+    </a>
+
+    <a href="https://github.com/BrandgrandRealMe/TBAUnofficialDiscordBot" target="_blank">
+    <img align="center" src="https://github-readme-stats-brandgrand.vercel.app/api/pin/?username=BrandgrandRealMe&repo=TBAUnofficialDiscordBot&theme=github_dark&hide_border=true&show_owner=true" alt="top-langs" />
+    </a>
+
 !!! links "My Packages"
     <a href="https://github.com/BrandgrandRealMe/BetterLogsDiscord" target="_blank">
     <img align="center" src="https://github-readme-stats-brandgrand.vercel.app/api/pin/?username=BrandgrandRealMe&repo=BetterDevLogs&theme=github_dark&hide_border=true&show_owner=true" alt="top-langs" />
