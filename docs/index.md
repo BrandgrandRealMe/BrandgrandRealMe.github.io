@@ -72,6 +72,10 @@
     <a href="https://github.com/BrandgrandRealMe/BetterLogsDiscord" target="_blank">
     <img align="center" src="https://github-readme-stats-brandgrand.vercel.app/api/pin/?username=BrandgrandRealMe&repo=BetterDevLogs&theme=github_dark&hide_border=true&show_owner=true" alt="top-langs" />
     </a>
+    
+    <a href="https://github.com/BrandgrandRealMe/FRCTBAAPI" target="_blank">
+    <img align="center" src="https://github-readme-stats-brandgrand.vercel.app/api/pin/?username=BrandgrandRealMe&repo=FRCTBAAPI&theme=github_dark&hide_border=true&show_owner=true" alt="top-langs" />
+    </a>
 
 
 <br />  
