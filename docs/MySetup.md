@@ -33,7 +33,7 @@ Comet Lake 14nm Technology
 
 ### :octicons-device-desktop-16: Operating System
 
-:simple-android: Android 14
+:simple-android: Android 15
 
 ### :octicons-cpu-16: CPU
 
